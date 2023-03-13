@@ -1,0 +1,3 @@
+equipo1:	gana1:		empana:		gana2:		equipo2:
+ARGENTINA	X		-		-		ARABIA SAUDITA
+POLINIA		-		X		-		MEXICO

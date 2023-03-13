@@ -1,0 +1,3 @@
+equipo1:	cant.goles1:	cant.goles2:	equipo2
+AREGENTINA	1		2		ARABIA SAUDITA
+POLINIA		0		0		MEXICO			
